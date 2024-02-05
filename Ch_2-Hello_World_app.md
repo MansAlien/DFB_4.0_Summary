@@ -1,6 +1,8 @@
 <h1 align='center'>🔥 CH 2 🔥 <br> 👉 Hello World App 👈</h1>
 
 ## 1. Initial Set Up
+- all like the previous app
+- just don't forget to add the app to the settings: `settings.py`
 
 ## 2. HTTP Request/Response cycle
 #### 👉 note: from django 4 by examples book (he explain it better, just my opinion)
