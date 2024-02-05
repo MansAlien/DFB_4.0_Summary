@@ -23,7 +23,7 @@ This repository is structured by chapters, with each chapter containing markdown
 - [Chapter 1: Initial Set Up](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md)
 - [Chapter 2: Hello World App](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_2-Hello_World_app.md)
 - [Chapter 3: Custom User Model](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_3-pages_app.md)
-- [Chapter 4: Message Board App]()
+- [Chapter 4: Message Board App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_4-message_board_app.md)
 - soon...
 
 
