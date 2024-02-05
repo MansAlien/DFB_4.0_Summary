@@ -15,7 +15,8 @@
 1. install django: `pip install django`
 2. check django version: `django --version`
 3. create django project : `django-admin startproject project .`
-4. run the server to check if everything is ok: `python manage.py runserver`
+4. migrate the database : `python manage.py migrate` (optinal)
+5. run the server to check if everything is ok: `python manage.py runserver`
 
 ## 4. Git Set Up:
 1. install git
