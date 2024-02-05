@@ -16,7 +16,7 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = os.path.join(BASE_DIR, 'static'),
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles', 'static')
 ```
-## 4. add the following code to the end of the `project/urls.py`file :
+## 4. add the following code to the end of the `project/urls.py` file :
 ```
 from django.conf import settings
 from django.conf.urls.static import static

@@ -142,7 +142,11 @@ developers, could have one canonical place for our header code that would be inh
 
 
 
+<br>
+
+🔥 [Next -> Chapter_4](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_3-pages_app.md) 🔥
 
 <br>
 <br>
+
 <h2 align="center"> :smile: Done :smile: </h2>
