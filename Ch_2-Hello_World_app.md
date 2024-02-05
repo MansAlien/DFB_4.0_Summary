@@ -1,4 +1,4 @@
-<h1 align='center'>👉 Hello World App 👈</h1>
+<h1 align='center'>🔥 CH 2 🔥 <br> 👉 Hello World App 👈</h1>
 
 ## 1. Initial Set Up
 
