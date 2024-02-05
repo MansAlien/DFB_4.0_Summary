@@ -1,7 +1,5 @@
 <h1 align='center'>:revolving_hearts: Django for beginners 4.0 by William S. Vincent :revolving_hearts:</h1>
 
-# Django for Beginners Summary & Issues
-
 Welcome to the repository where I share my journey through "Django for Beginners." This repository serves as a summary of the key concepts from the book and a collection of problems I faced, along with their solutions.
 
 ## About the Book
