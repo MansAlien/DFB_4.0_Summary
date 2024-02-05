@@ -1,4 +1,4 @@
-<h1 align='center'>👉 Initial Set Up 👈</h1>
+<h1 align='center'>🔥 CH 1 🔥 <br> 👉 Initial Set Up 👈</h1>
 
 ## 1. Install Python version 3
 
