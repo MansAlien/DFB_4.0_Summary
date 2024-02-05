@@ -1,4 +1,4 @@
-<h1 align='center'>👉 Custom User 👈</h1>
+<h1 align='center'>👉 Vercel 👈</h1>
 
 ## 1. create the requirements file: 
 - `pip freeze > requirements.txt`
