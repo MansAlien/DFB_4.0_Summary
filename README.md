@@ -49,6 +49,6 @@ If you have any questions or would like to get in touch, please open an issue in
 ---
 
 ## Start From here:
-### [start](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md) :muscle: :fire:
+### [start -> Chapter_1](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md) :muscle: :fire:
 
 <h2 align="center">Happy Coding! :smile:</h2>
