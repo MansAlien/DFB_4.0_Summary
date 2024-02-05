@@ -30,7 +30,8 @@
 
 ## note:
 - you can use my auto set up for django project : [django_setup](https://github.com/MansAlien/Django_setup.git)
-[Next](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_2-Hello_World_app.md)
+
+🔥 [Next](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_2-Hello_World_app.md) 🔥
 
 <br>
 <br>
