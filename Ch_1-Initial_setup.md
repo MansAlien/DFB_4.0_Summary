@@ -24,6 +24,11 @@
 4. set your global email : `git config --global user.email "email@gmail.com"`
 5. set your global branch : `git config --global init.defaultBranch main`
 
+
+## 5. Create a repository on Github
+
+## note:
+- you can use my auto set up for django project : [django_setup](https://github.com/MansAlien/Django_setup.git)
 <br>
 <br>
 
