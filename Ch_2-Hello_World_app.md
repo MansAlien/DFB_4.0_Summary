@@ -81,6 +81,10 @@
 6. upload the changes to the remote link: `git push -u origin main`
 
 <br>
+
+🔥 [Next](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_3-pages_app.md) 🔥
+
+<br>
 <br>
 
 <h2 align="center"> :smile: Done :smile: </h2>
