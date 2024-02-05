@@ -1,4 +1,4 @@
-<h1 align='center'>👉 Pages App 👈</h1>
+<h1 align='center'>🔥 CH 3 🔥 <br> 👉 Pages App 👈</h1>
 
 ## 1. Initial Set Up
 - all like the previous app
