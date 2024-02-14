@@ -5,7 +5,7 @@ built-in Forms89 that abstract away much of the difficulty for us. Django also c
 editing views90 for common tasks like displaying, creating, updating, or deleting a form.
 
 ## 1. CreateView
-1. update the `templates/base.html` file (adding new post link):
+1. :page_facing_up: update the `templates/base.html` file (adding new post link):
    ```
     <!-- templates/base.html -->
     {% load static %}
@@ -32,7 +32,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         </body>
     </html>
    ```
-2. create a `url` for it:
+2. :link: create a `url` for it:
    ```
    # blog/urls.py
     from django.urls import path
@@ -44,7 +44,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         path("", BlogListView.as_view(), name="home"),
     ]
    ```
-3. add the `BlogCreateView` of the `view`:
+3. :eyes: add the `BlogCreateView` of the `view`:
    ```
    # blog/views.py
     from django.views.generic import ListView, DetailView
@@ -65,7 +65,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         fields = ['title','body','author']
    ```
 
-4. create the `template/post_new.html` file:
+4. :page_facing_up: create the `template/post_new.html` file:
     ```
     <!-- templates/post_new.html -->
     {% extends "base.html" %}
@@ -82,11 +82,11 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
    - go to this link: [http://127.0.0.1:8000/post/new/](http://127.0.0.1:8000/post/new/)
    - create a post with this form to check if it works ok
   
-### *note*:
+### :pushpin: *note*:
 - If you are thinking about it doesn't make sense to have an `author` field in the `BlogCreateView`, you are right but you will get the answer of your quistion at newspapper chapters.
 
 ## 2. UpdateView
-1. update the `templates/post_detail.html` file (adding a link for the ***edit form***):
+1. :page_facing_up: update the `templates/post_detail.html` file (adding a link for the ***edit form***):
    ```
     <!-- templates/post_detail.html -->
     {% extends "base.html" %}
@@ -98,7 +98,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         <a href="{% url 'post_edit' post.pk %}">+ Edit Blog Post</a>
     {% endblock content %}
    ```
-2. create the `templates/post_edit.html` file and add the following code:
+2. :page_facing_up: create the `templates/post_edit.html` file and add the following code:
    ```
     <!-- templates/post_edit.html -->
     {% extends "base.html" %}
@@ -111,7 +111,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         </form>
     {% endblock content %}
    ```
-3. add the `BlogUpdateView` form to the `view`:
+3. :eyes: add the `BlogUpdateView` form to the `view`:
     ```
     from django.views.genenric import ListView, DetailView
     from django.views.generic.edit import CreateView, UpdateView
@@ -136,7 +136,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         fields = ['title', 'body']
     ```
 
-4. create the `url` for it:
+4. :link: create the `url` for it:
     ```
     # blog/urls.py
     from django.urls import path
@@ -150,7 +150,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
     ]
     ```
 ## 3. DeleteView
-1. update the `templates/post_detail.html` file (adding a link for the ***delete form***):
+1. :page_facing_up: update the `templates/post_detail.html` file (adding a link for the ***delete form***):
     ```
     <!-- templates/post_detail.html -->
     {% extends "base.html" %}
@@ -163,7 +163,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         <p><a href="{% url 'post_delete' post.pk %}">+ Delete Blog Post</a></p>
     {% endblock content %}
     ```
-2. create the `templates/post_delete.html` file and add the following code:
+2. :page_facing_up: create the `templates/post_delete.html` file and add the following code:
    ```
     <!-- templates/post_delete.html -->
     {% extends "base.html" %}
@@ -175,7 +175,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         </form>
     {% endblock content %}
    ```
-3. add the `BlogDeleteView` form to the `view`:
+3. :eyes: add the `BlogDeleteView` form to the `view`:
     ```
     from django.view.generic import BlogListView, BlogDetailView
     from django.views.generic.edit import BlogCreateView,BlogUpdateView,BlogDeleteView
@@ -188,7 +188,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
         template_name = "post_delete.html"
         success_url = reverse_lazy("home")
     ```
-4. create the `url` for it:
+4. :link: create the `url` for it:
     ```
     # blog/urls.py
     from django.urls import path
