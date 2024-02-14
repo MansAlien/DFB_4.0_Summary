@@ -232,7 +232,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
 
 
 <br>
-🔥 [Next -> Chapter_7]() 🔥
+🔥 [Next -> Chapter_7](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md) 🔥
 <br>
 <br>
 <h2 align="center"> :smile: Done :smile: </h2>
