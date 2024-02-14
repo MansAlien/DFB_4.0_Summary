@@ -76,7 +76,7 @@
 
 <br>
 
-🔥 [Next -> Chapter_9]() 🔥
+🔥 [Next -> Chapter_9](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_9-user_authentication.md) 🔥
 
 <br>
 <br>
