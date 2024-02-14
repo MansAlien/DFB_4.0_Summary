@@ -2,11 +2,11 @@
 
 Welcome to the repository where I share my journey through "Django for Beginners." This repository serves as a summary of the key concepts from the book and a collection of problems I faced, along with their solutions.
 
-## About the Book
+## About the Book :blue_book:
 
 "Django for Beginners" is an introductory book for web development with Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
-## Repository Structure
+## Repository Structure :octocat:
 
 This repository is structured by chapters, with each chapter containing markdown files that summarize the content and highlight any issues I encountered, as well as their resolutions.
 
@@ -18,7 +18,7 @@ This repository is structured by chapters, with each chapter containing markdown
 
 
 
-## Chapters
+## Chapters :blue_book:
 
 - [Chapter 1: Initial Set Up](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md)
 - [Chapter 2: Hello World App](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_2-Hello_World_app.md)
@@ -26,7 +26,7 @@ This repository is structured by chapters, with each chapter containing markdown
 - [Chapter 4: Message Board App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_4-message_board_app.md)
 - [Chapter 5: Blog App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_5-blog_app.md)
 - [Chapter 6: Forms](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_6-forms.md)
-- Chapter 7: [User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
+- [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
 - soon...
 
 
@@ -36,7 +36,7 @@ If you've also studied "Django for Beginners" and would like to contribute to th
 
 Please feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
+## License 
 
 This project is open-sourced under the [MIT license](LICENSE).
 
@@ -45,7 +45,7 @@ This project is open-sourced under the [MIT license](LICENSE).
 - Thank you "William S. Vincent" the author of "Django for Beginners" for providing a solid foundation in Django.
 - Thanks to the Django community for their ongoing support and contributions to the framework.
 
-## Contact
+## Contact :incoming_envelope:
 
 If you have any questions or would like to get in touch, please open an issue in this repository, and I will get back to you.
 
