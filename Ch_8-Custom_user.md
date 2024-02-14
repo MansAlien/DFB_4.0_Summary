@@ -75,7 +75,9 @@
 5. go to the admin panel site : [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 
 <br>
+
 🔥 [Next -> Chapter_9]() 🔥
+
 <br>
 <br>
 <h2 align="center"> :smile: Done :smile: </h2>
