@@ -27,6 +27,7 @@ This repository is structured by chapters, with each chapter containing markdown
 - [Chapter 5: Blog App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_5-blog_app.md)
 - [Chapter 6: Forms](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_6-forms.md)
 - [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
+- [Chapter 8: Custom User](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_8-Custom_user.md)
 - soon...
 
 

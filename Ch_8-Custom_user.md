@@ -1,4 +1,4 @@
-<h1 align='center'>👉 Custom User 👈</h1>
+<h1 align='center'> :fire: CH 8 :fire: <br> 👉 Custom User 👈</h1>
 
 ## 1. Initial Set Up
 
@@ -75,6 +75,7 @@
 5. go to the admin panel site : [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin)
 
 <br>
+🔥 [Next -> Chapter_9]() 🔥
 <br>
-
+<br>
 <h2 align="center"> :smile: Done :smile: </h2>
