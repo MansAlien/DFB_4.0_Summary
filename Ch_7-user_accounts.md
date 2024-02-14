@@ -188,7 +188,9 @@ same as before
 
 
 <br>
+
 🔥 [Next -> Chapter_8](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_8-Custom_user.md) 🔥
+
 <br>
 <br>
 <h2 align="center"> :smile: Done :smile: </h2>
