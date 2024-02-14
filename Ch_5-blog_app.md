@@ -1,12 +1,12 @@
 <h1 align='center'> :fire: CH 5 :fire: <br> 👉 Blog App 👈</h1>
 
 ## 1. Initial Set Up
-- make a new directory called blog
-- install djnago in a new virtual environment called .venv
-- create a new django project called project
-- create a new app blog
-- perform the migration to setup the database
-- update project/settings.py file (add the new app)
+- :file_folder: make a new directory called blog
+- :arrow_down: install djnago in a new virtual environment called .venv
+- :pencil2: create a new django project called project
+- :pencil2: create a new app blog
+- ⚙️ perform the migration to setup the database
+- ⚙️ update project/settings.py file (add the new app)
 
 ## 2. Database Models
 
@@ -46,7 +46,7 @@
 4. create some posts in the admin panel
 
 ## 4. URLs
-1. create the urls of the blog:
+1. :link: create the urls of the blog:
    ```
    # blog/urls.py
     from django.urls import path
@@ -56,7 +56,7 @@
         path("", BlogListView.as_view(), name="home")
     ]
    ```
-2. add the urls of the blog to the project:
+2. :link: add the urls of the blog to the project:
    ```
    # project/urls.py
    from django.contrib import admin
@@ -68,7 +68,7 @@
    ]
    ```
 
-## 5. Views
+## 5. Views :eyes:
 ```
 # blog/views.py
 from django.views.generic import ListView
@@ -79,9 +79,9 @@ class BlogListView(ListView):
     template_name = "home.html"
 ```
 ## 6. Templates
-1. create the directory of it : `mkdir templates`
-2. update the settings file (adding the templates path to it)
-3. create the templates/base.html file and add the following code:
+1. :file_folder: create the directory of it : `mkdir templates`
+2. ⚙️ update the settings file (adding the templates path to it)
+3. :page_facing_up: create the templates/base.html file and add the following code:
    ```
    <!-- templates/base.html -->
     <html>
@@ -99,7 +99,7 @@ class BlogListView(ListView):
         </body>
     </html>
    ```
-4. create the templates/home.html file and add the following code: 
+4. :page_facing_up: create the templates/home.html file and add the following code: 
    ```
    <!-- templates/home.html -->
     {% extends "base.html" %}
@@ -114,16 +114,16 @@ class BlogListView(ListView):
    ```
 
 ## Static Files
-1. create the static folder: `mkdir static`
-2. update the project/settings.py:
+1. :file_folder: create the static folder: `mkdir static`
+2. ⚙️ update the project/settings.py:
    ```
    # project/settings.py
     STATIC_URL = "/static/"
     STATICFILES_DIRS = [BASE_DIR / "static"]
    ```
-3. create the static/css folder: `mkdir static/css`
-4. create the static/css/base.css file: `touch static/css/base.css`
-5. update the base.html file:
+3. :file_folder: create the static/css folder: `mkdir static/css`
+4. :page_facing_up: create the static/css/base.css file: `touch static/css/base.css`
+5. :page_facing_up: update the base.html file:
    ```
    <!-- templates/base.html -->
     {% load static %}
@@ -137,7 +137,7 @@ class BlogListView(ListView):
 6. add your css code to the base.css file
 
 ## Individual Blog pages
-1. create the BlogDetailsView:
+1. :eyes: create the BlogDetailsView:
     ```
     # blog/views.py
     from django.views.generic import ListView, DetailView
@@ -151,7 +151,7 @@ class BlogListView(ListView):
         model = Post
         template_name = "post_detail.html"
     ```
-2. create the templates/post_detail.html template and add the following code:
+2. :page_facing_up: create the templates/post_detail.html template and add the following code:
    ```
     <!-- templates/post_detail.html -->
     {% extends "base.html" %}
@@ -162,7 +162,7 @@ class BlogListView(ListView):
         </div>
     {% endblock content %}
    ```
-3. add a url for the blog details page:
+3. :link: add a url for the blog details page:
    ```
    # blog/urls.py
    from django.urls import path
@@ -173,7 +173,7 @@ class BlogListView(ListView):
     path("", BlogListView.as_view(), name="home"),
    ]
    ```
-4. add the urls of the details page to the base.html:
+4. :page_facing_up: add the urls of the details page to the base.html:
    ```
    <!-- templates/home.html -->
     {% extends "base.html" %}
