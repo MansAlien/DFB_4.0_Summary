@@ -1,7 +1,7 @@
 <h1 align='center'> :fire: CH 7 :fire: <br> 👉 User Accounts 👈</h1>
 
 ## 1. Log In
-1. update the `project/urls.py`: 
+1. :link: update the `project/urls.py`: 
    ```
    from django.contrib import admin
    from django.urls import path, include
@@ -12,7 +12,7 @@
       path("", include("blog.urls")),
    ] 
    ```
-2. create the `tempaltes/registeration` folder and create the `login.html` file
+2. :page_facing_up: create the `tempaltes/registeration` folder and create the `login.html` file
 3. add the following code to the `login.html` file:
    
    ```
@@ -26,14 +26,14 @@
       </form>
    {% endblock content %}
    ```
-4. The final step is we need to specify where to redirect the user upon a successful log in. update the `project/settings.py` file:
+4. ⚙️ The final step is we need to specify where to redirect the user upon a successful log in. update the `project/settings.py` file:
    
    ```
    # project/settings.py
    LOGIN_REDIRECT_URL = "home"
    ```
 
-## 2. Update Homepage
+## 2. Update Homepage :page_facing_up:
 ```
 <!-- templates/base.html -->
 {% load static %}
@@ -67,7 +67,7 @@
 </html>
 ```
 ## 3. Log Out
-1. update the `templates/base.html` file:
+1. :page_facing_up: update the `templates/base.html` file:
    ```
    <!-- templates/base.html-->
    ...
@@ -87,7 +87,7 @@
       </form>
       ```
 
-2. The final step is we need to specify where to redirect the user upon a successful log out. update the `project/settings.py` file:
+2. ⚙️ The final step is we need to specify where to redirect the user upon a successful log out. update the `project/settings.py` file:
    
    ```
    # project/settings.py
@@ -99,7 +99,7 @@
 1. start the accounts app: 
    - create the accounts app: `python manage.py startapp accounts`
    - add it to the `project/settings.py`: `accounts.apps.AccountsConfig`
-2. update the `project/urls.py`:
+2. :link: update the `project/urls.py`:
 3. 
    ```
    # project/urls.py
@@ -155,7 +155,7 @@
       </form>
    {% endblock content %}
    ```
-7. update the `templates/base.html`:
+7. :page_facing_up:update the `templates/base.html`:
    ```
    <!-- templates/base.html-->
    ...
