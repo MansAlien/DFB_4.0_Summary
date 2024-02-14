@@ -232,7 +232,7 @@ editing views90 for common tasks like displaying, creating, updating, or deletin
 
 
 <br>
-🔥 [Next -> Chapter_6]() 🔥
+🔥 [Next -> Chapter_7]() 🔥
 <br>
 <br>
 <h2 align="center"> :smile: Done :smile: </h2>
