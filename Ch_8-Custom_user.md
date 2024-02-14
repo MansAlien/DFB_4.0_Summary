@@ -2,17 +2,17 @@
 
 ## 1. Initial Set Up
 
-1. create a virtual environment : `python -m venv .venv`
-2. Activate the virtual environment : `source .venv/bin/activate`
-3. Install django : `pip install django`
-4. Start a new project : `django-admin startproject project .`
-5. Start a new app : `python manage.py startapp accounts`
-6. Adding the new app to the settings file : `accounts.apps.AccountsConfig`
+1. :file_folder: create a virtual environment : `python -m venv .venv`
+2.  Activate the virtual environment : `source .venv/bin/activate`
+3. :arrow_down: Install django : `pip install django`
+4. :pencil2: Start a new project : `django-admin startproject project .`
+5. :pencil2: Start a new app : `python manage.py startapp accounts`
+6. ⚙️ Adding the new app to the settings file : `accounts.apps.AccountsConfig`
 
 
 ## 2. Create User Model
 
-1. Update the settings file  : `AUTH_USER_MODEL = "accounts.CustomUser"`
+1. ⚙️ Update the settings file  : `AUTH_USER_MODEL = "accounts.CustomUser"`
 2. Now update accounts/models.py with a new User model called CustomUser that extends the existing AbstractUser.
     ```
     # accounts/models.py
@@ -22,7 +22,7 @@
     class CustomUser(AbstractUser):
         age = models.PositiveIntegerField(null=True, blank=True)
     ```
-    **note:** if you need a very high level of control and cutomization user `AbstractBaseUser` instead of `AbstractUser`
+    **:pushpin: note:** if you need a very high level of control and cutomization user `AbstractBaseUser` instead of `AbstractUser`
 
 ## 3. Create User Form
 ### 1. There are two ways to interact with the new CustomUser model :
