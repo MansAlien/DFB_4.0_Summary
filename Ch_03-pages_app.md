@@ -144,7 +144,7 @@ developers, could have one canonical place for our header code that would be inh
 
 <br>
 
-🔥 [Next -> Chapter_4](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_4-message_board_app.md) 🔥
+🔥 [Next -> Chapter_4](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_04-message_board_app.md) 🔥
 
 <br>
 <br>

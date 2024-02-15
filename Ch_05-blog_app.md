@@ -243,7 +243,7 @@ class BlogListView(ListView):
 
 <br>
 
-🔥 [Next -> Chapter_6](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_6-forms.md) 🔥
+🔥 [Next -> Chapter_6](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_06-forms.md) 🔥
 
 <br>
 <br>

@@ -189,7 +189,7 @@ same as before
 
 <br>
 
-🔥 [Next -> Chapter_8](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_8-Custom_user.md) 🔥
+🔥 [Next -> Chapter_8](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_08-Custom_user.md) 🔥
 
 <br>
 <br>

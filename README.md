@@ -24,11 +24,11 @@ This repository is structured by chapters, with each chapter containing markdown
 - [Chapter 2: Hello World App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_02-Hello_World_app.md)
 - [Chapter 3: Custom User Model](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_03-pages_app.md)
 - [Chapter 4: Message Board App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_04-message_board_app.md)
-- [Chapter 5: Blog App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_5-blog_app.md)
-- [Chapter 6: Forms](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_6-forms.md)
-- [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
-- [Chapter 8: Custom User](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_8-Custom_user.md)
-- [Chapter 9: User Authentication](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_9-user_authentication.md)
+- [Chapter 5: Blog App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_05-blog_app.md)
+- [Chapter 6: Forms](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_06-forms.md)
+- [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_07-user_accounts.md)
+- [Chapter 8: Custom User](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_08-Custom_user.md)
+- [Chapter 9: User Authentication](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_09-user_authentication.md)
 - [Chapter 10: Bootstrap](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_10-bootstrap.md)
 - soon...
 
