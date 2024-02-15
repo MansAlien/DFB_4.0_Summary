@@ -20,10 +20,10 @@ This repository is structured by chapters, with each chapter containing markdown
 
 ## Chapters :blue_book:
 
-- [Chapter 1: Initial Set Up](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md)
-- [Chapter 2: Hello World App](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_2-Hello_World_app.md)
-- [Chapter 3: Custom User Model](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_3-pages_app.md)
-- [Chapter 4: Message Board App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_4-message_board_app.md)
+- [Chapter 1: Initial Set Up](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_01-Initial_setup.md)
+- [Chapter 2: Hello World App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_02-Hello_World_app.md)
+- [Chapter 3: Custom User Model](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_03-pages_app.md)
+- [Chapter 4: Message Board App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_04-message_board_app.md)
 - [Chapter 5: Blog App](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_5-blog_app.md)
 - [Chapter 6: Forms](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_6-forms.md)
 - [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
@@ -55,6 +55,6 @@ If you have any questions or would like to get in touch, please open an issue in
 ---
 
 ## Start From here:
-### [start -> Chapter_1](https://github.com/MansAlien/DFB_Revision/blob/main/Ch_1-Initial_setup.md) :muscle: :fire:
+### [start -> Chapter_1](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_01-Initial_setup.md) :muscle: :fire:
 
 <h2 align="center">Happy Coding! :smile:</h2>
