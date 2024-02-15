@@ -184,7 +184,7 @@ same as before
 - *William S. Vincent* used Heroku, but Heroku needes a credit card and a lot of headaches.
 - what is the advantage of vercel:
     - it's free :smile:
-- [*how to use vercel?*](https://github.com/MansAlien/DFB_Revision/blob/main/important/vercel.md)
+- [*how to use vercel?*](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/important/vercel.md)
 
 
 <br>

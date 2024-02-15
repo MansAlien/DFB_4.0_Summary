@@ -29,6 +29,7 @@ This repository is structured by chapters, with each chapter containing markdown
 - [Chapter 7: User Accounts](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_7-user_accounts.md)
 - [Chapter 8: Custom User](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_8-Custom_user.md)
 - [Chapter 9: User Authentication](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_9-user_authentication.md)
+- [Chapter 10: Bootstrap](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/Ch_10-bootstrap.md)
 - soon...
 
 

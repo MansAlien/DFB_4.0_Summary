@@ -58,7 +58,7 @@ class HomePageTests(SimpleTestCase):
     1. use it online: go to the bootstrap website and look at the steps
     2. install it locally (offline):
         - follow the steps in this tutorial that i made for you
-        - [*Install Bootstrap*](https://github.com/MansAlien/DFB_Revision/blob/main/important/bootstrap.md)
+        - [*Install Bootstrap*](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/important/bootstrap.md)
     3. the finall resulte of `templates/base.html` file:
 
         #### :pushpin: note: We are using bootstrap locally 
@@ -128,7 +128,8 @@ class HomePageTests(SimpleTestCase):
             </div>
             ...
         ```
-    5. update the `templates/registration/singup.html` to be like this:
+    5. install crispy forms: [install crispy](https://github.com/MansAlien/DFB_4.0_Summary/blob/main/important/crispy.md)
+    6. update the `templates/registration/singup.html` to be like this:
         ```
         <!-- templates/registration/signup.html -->
         {% extends "base.html" %}
@@ -143,7 +144,7 @@ class HomePageTests(SimpleTestCase):
             </form>
         {% endblock content %}
         ```
-    6. update the `templates/registration/login.html` to be like this:
+    7. update the `templates/registration/login.html` to be like this:
         ```
         <!-- templates/registration/login.html -->
         {% extends "base.html" %}
